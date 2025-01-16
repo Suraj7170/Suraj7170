@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software engineering is not just about writing code. It's about solving problems and making lives better.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj7170&label=Profile%20views&color=0e75b6&style=flat" alt="suraj7170" /> </p>
