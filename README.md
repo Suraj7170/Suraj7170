@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **kumars03535@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vXz7yUH03KHx6GRphTefy_PT5WnhRioL/view?usp=sharing][(https://drive.google.com/file/d/1vXz7yUH03KHx6GRphTefy_PT5WnhRioL/view?usp=sharing)](http://surl.li/nfclcz)
+- 📄 Know about my experiences (http://surl.li/nfclcz)
 
 - ⚡ Fun fact **Reading Novels**
 
